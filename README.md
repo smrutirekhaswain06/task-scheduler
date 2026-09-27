@@ -4,6 +4,8 @@ A backend job-scheduling engine built in **Java + Spring Boot** that mimics how 
 
 > Built to demonstrate core system-engineering concepts: multi-threading, fault tolerance, scheduling, and REST API design.
 
+<img width="372" height="305" alt="image" src="https://github.com/user-attachments/assets/4f978c20-eb95-4037-9a30-27ef25b7b1da" />
+
 ---
 
 ## ✨ Features
