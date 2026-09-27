@@ -1,0 +1,10 @@
+target/
+data/
+reports/
+*.class
+*.log
+.idea/
+*.iml
+.vscode/
+.DS_Store
+HELP.md
