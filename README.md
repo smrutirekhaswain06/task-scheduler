@@ -117,10 +117,6 @@ POST /api/tasks
 - WebSocket-based live updates instead of dashboard polling
 - Dead-letter queue for permanently failed tasks
 
-## 📄 License
-
-MIT License — feel free to use this project as a learning reference.
-
 ---
 
 *Built as a hands-on project to explore backend scheduling, concurrency, and fault-tolerance patterns in Java.*
